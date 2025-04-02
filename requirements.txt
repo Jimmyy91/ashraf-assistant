@@ -17,6 +17,7 @@ pyasn1==0.6.1
 pyasn1_modules==0.4.2
 pydub==0.25.1
 pyparsing==3.2.3
+python-telegram-bot==13.15
 pytz==2025.2
 requests==2.32.3
 requests-oauthlib==2.0.0
