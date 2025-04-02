@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ashraf-assistant",
+  "private_key_id": "3011889b5b2eab5e4db2af60b903d35d25fbba5f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCp/2AMXpRMWzBe\nTfnZknPuBYLFkYT32c8wWRy+NKlYHWS70vzbGKNYVJNdRQ8w9z9orUIl+NMtStga\n8Bi8VxrP2hmW5Tx8ggNOtvf5qzfWtwtTo/fUTjgkneVwT1MeZPALHP3OtaF8swmm\nC/qeJAM/f31v+Eti3iV+uBFG7VNoiiWsJL+q7pOsOw7gaiOv6z4dr3ITU+hWxcb2\nYpbY2cbYAKZlYTqbPIUI7KHZ9SygFrNOAM+W4P46wsdmWKK7c1ld7TbL1jgxcv9i\nVU+FyZQdticxcoM8sS81lqIm+tUZz7PJdZG/lYUMWhRNzVZhP60AkjutNg7HFVSX\nrvY6kgTTAgMBAAECggEADhUWqs+m71BaiGVjPi/QpLYWKDGu1y1W6YVoSSVppeAB\neUG4Kpo25dlTv9U5te+1dAFuSmD7dXQOxOSA2BFLKk7B8esZgKLwjTPBBRC29nWB\nXbNmk1LLedUOragUlZ789562M8p+DytxsCyr3S/UiQ0RohXqgM0wQ/gRjlOYpj8w\n0oVQvmU7AfkrUgrKOwLGWEinYlEyh4g/+fmSo1CbNA1yVFg+juVB0UZhh3WpPtPr\nOLYv2UGX2ugAaIXRuveSZ3pVwDYCmJ4dwZaFOIM+9HOZtN1j10OfXLH5kHUj5rxJ\nTZHKIyfrfkndBDHJ8QL/QAy4GiOK1o8KIh0jImXr4QKBgQDdJ8tQL1ksgSZ1KCMr\n7lIhj8vX99E/O2m7S5pzELViyB1FLVU6js8YPO8T7uPcyIJmpb2AjEsrCdMLZJi+\naxREQRltoDn50y7sOccqzB51CdbasaHjxZ/Bfb4rLrSkCfvRbAWZkbzuhY71DOBR\n6fC4YNcF6iNP1tulpw/I9rM2MQKBgQDEyCaLLQal99DHZvpseOLYCVa4kgdP/4yL\nESy85Y4J926DgoX+G870DpwkoWdh1Ppiyj3oIUrwWyVtnKPq4OJ7z+JMa/yu2TXd\nIjk6UgBmuBWEx4gpK+38fGpY9ZmvTKXQE3K33QVmp7zF2Llso5bOYTTQPuq2ikil\nUDDG9mS2QwKBgGVAk+gpVWV319ipwLibS0UMZeKCFm4h0H2s1pC55KHORwBmCfBe\nc9iABWGV7QMnVfSTC1jwYnXY8KP1saz0r3m0aGT1h7Wmh4Qly9b/Ty58i77ituDm\nmQbogAmbP58e5wjxsPqna920jkgJViaKuehghfGySeqCz1tfSm3S7SfxAoGBAJvF\nsTVFHFkvdjcTHrPVcgUAR4TuHBnIutGvc9HIigr7sqEqJrXD/6yVECezGSqJtPeV\nDzJ9gFwKWvONJvkcsky+gG5soWcsDQaTO+gd17F4kZg9d1zYKJlRR8JKETGCpFO1\nwX8o2EiuCbI4YHhOe2e97VfYJmb/yogKlcI6c/kPAoGAQLPb10HEOtaCZE6LP6t6\nRe3J0j5YwyHl3MYc+xTw39Pv8hb19sUmo/o8Eze5M6tXgIZJXpMQwfXLY0I2Il9f\n/id6D784d89yTaphgpZg3RToqAcokjT0omopYuHhGKLU0fU+Ew5naP9oo8syFlvp\nCayRPdRV+/U97wGlTTl4gNE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ashraf-bot@ashraf-assistant.iam.gserviceaccount.com",
+  "client_id": "116671478040351074486",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ashraf-bot%40ashraf-assistant.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
